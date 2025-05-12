@@ -68,7 +68,7 @@ El informe final incluye una recomendación completa y justificada para el Sr. J
 - Mapa de dispersión para análisis geográfico
 
 ## Autor
-Estudiante de Análisis de Datos - Alura Latam
+Mery Vega M. Estudiante de Análisis de Datos - Alura Latam
 
 ## Agradecimientos
 - Alura Latam
